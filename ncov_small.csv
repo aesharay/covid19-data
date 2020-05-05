@@ -1,0 +1,71 @@
+1,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+2,Hubei,Mainland China,2/4/2020 23:43,16678,479,522
+3,Zhejiang,Mainland China,2/5/2020 1:33,895,0,63
+4,Guangdong,Mainland China,2/5/2020 2:03,870,0,32
+5,Henan,Mainland China,2/5/2020 1:13,764,2,41
+6,Hunan,Mainland China,2/5/2020 1:43,661,0,35
+7,Jiangxi,Mainland China,2/5/2020 1:33,548,0,27
+8,Anhui,Mainland China,2/5/2020 1:13,530,0,20
+9,Chongqing,Mainland China,2/5/2020 0:13,366,2,14
+10,Jiangsu,Mainland China,2/5/2020 2:43,341,0,13
+11,Sichuan,Mainland China,2/5/2020 0:53,301,1,23
+12,Shandong,Mainland China,2/5/2020 1:03,298,0,13
+13,Shanghai,Mainland China,2/5/2020 0:23,233,1,12
+14,Beijing,Mainland China,2/4/2020 8:33,228,1,23
+15,Fujian,Mainland China,2/4/2020 12:13,194,0,3
+16,Heilongjiang,Mainland China,2/5/2020 1:23,190,2,4
+17,Shaanxi,Mainland China,2/5/2020 2:43,165,0,2
+18,Guangxi,Mainland China,2/5/2020 0:43,150,0,10
+19,Hebei,Mainland China,2/5/2020 2:53,135,1,4
+20,Yunnan,Mainland China,2/4/2020 23:23,122,0,5
+21,Hainan,Mainland China,2/5/2020 2:53,91,1,4
+22,Liaoning,Mainland China,2/4/2020 14:13,81,0,2
+23,Shanxi,Mainland China,2/4/2020 23:23,81,0,4
+24,Tianjin,Mainland China,2/4/2020 13:33,67,0,2
+25,Guizhou,Mainland China,2/5/2020 1:23,64,0,5
+26,Gansu,Mainland China,2/4/2020 15:43,57,0,4
+27,Jilin,Mainland China,2/5/2020 0:43,54,0,1
+28,Inner Mongolia,Mainland China,2/5/2020 1:53,42,0,1
+29,Ningxia,Mainland China,2/4/2020 2:13,34,0,1
+30,Xinjiang,Mainland China,2/5/2020 2:03,32,0,0
+31,,Thailand,2/4/2020 15:33,25,0,5
+32,,Singapore,2/4/2020 15:33,24,0,0
+33,,Japan,2/4/2020 16:43,22,0,1
+34,Hong Kong,Hong Kong,2/5/2020 2:33,18,1,0
+35,Qinghai,Mainland China,2/5/2020 1:23,17,0,0
+36,,South Korea,2/4/2020 15:33,16,0,0
+37,,Germany,2/3/2020 20:53,12,0,0
+38,Taiwan,Taiwan,2/4/2020 14:53,11,0,0
+39,Macau,Macau,2/4/2020 4:43,10,0,0
+40,,Malaysia,2/4/2020 7:33,10,0,0
+41,,Vietnam,2/3/2020 21:43,8,0,1
+42,,France,2/1/2020 1:52,6,0,0
+43,,United Arab Emirates,2/2/2020 5:43,5,0,0
+44,New South Wales,Australia,2/1/2020 18:12,4,0,2
+45,Victoria,Australia,2/1/2020 18:12,4,0,0
+46,Queensland,Australia,2/4/2020 16:53,3,0,0
+47,,India,2/3/2020 21:43,3,0,0
+48,South Australia,Australia,2/2/2020 22:33,2,0,0
+49,"Toronto, ON",Canada,2/4/2020 0:13,2,0,0
+50,,Italy,1/31/2020 8:15,2,0,0
+51,,Philippines,2/2/2020 3:33,2,1,0
+52,,Russia,1/31/2020 16:13,2,0,0
+53,,UK,2/1/2020 1:52,2,0,0
+54,"Chicago, IL",US,2/1/2020 19:43,2,0,0
+55,"San Benito, CA",US,2/3/2020 3:53,2,0,0
+56,"Santa Clara, CA",US,2/3/2020 0:43,2,0,0
+57,,Belgium,2/4/2020 15:43,1,0,0
+58,,Cambodia,1/31/2020 8:15,1,0,0
+59,British Columbia,Canada,2/1/2020 18:12,1,0,0
+60,"London, ON",Canada,2/4/2020 0:03,1,0,0
+61,,Finland,1/31/2020 8:15,1,0,0
+62,Tibet,Mainland China,2/1/2020 1:52,1,0,0
+63,,Nepal,1/31/2020 8:15,1,0,0
+64,,Spain,2/1/2020 23:43,1,0,0
+65,,Sri Lanka,1/31/2020 8:15,1,0,0
+66,,Sweden,2/1/2020 2:13,1,0,0
+67,"Boston, MA",US,2/1/2020 19:43,1,0,0
+68,"Los Angeles, CA",US,2/1/2020 19:53,1,0,0
+69,"Orange, CA",US,2/1/2020 19:53,1,0,0
+70,"Seattle, WA",US,2/1/2020 19:43,1,0,0
+71,"Tempe, AZ",US,2/1/2020 19:43,1,0,0

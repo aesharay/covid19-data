@@ -1,0 +1,445 @@
+SNo,Area,Country/Region,Last Update,Confirmed,Deaths,Recovered
+1,Hubei,Mainland China,3/18/2020 12:13,67800,3122,56927
+2,,Italy,3/18/2020 17:33,35713,2978,4025
+3,,Iran,3/18/2020 12:33,17361,1135,5389
+4,,Spain,3/18/2020 13:13,13910,623,1081
+5,,Germany,3/18/2020 19:33,12327,28,105
+6,France,France,3/18/2020 18:33,9043,148,12
+7,,South Korea,3/18/2020 2:53,8413,84,1540
+8,,Switzerland,3/18/2020 14:53,3028,28,15
+9,United Kingdom,UK,3/18/2020 14:53,2626,71,65
+10,New York,US,3/18/2020 19:33,2495,16,0
+11,Netherlands,Netherlands,3/18/2020 13:13,2051,58,2
+12,,France,3/10/2020 18:53,1784,33,12
+13,,Austria,3/18/2020 14:53,1646,4,9
+14,,Norway,3/18/2020 15:53,1550,6,1
+15,,Belgium,3/18/2020 12:33,1486,14,31
+16,Guangdong,Mainland China,3/18/2020 8:53,1370,8,1313
+17,,Sweden,3/18/2020 17:53,1279,10,1
+18,Henan,Mainland China,3/14/2020 9:53,1273,22,1250
+19,Zhejiang,Mainland China,3/17/2020 2:13,1232,1,1216
+20,,Netherlands,3/15/2020 18:20,1135,20,2
+21,Denmark,Denmark,3/18/2020 16:59,1057,4,1
+22,Hunan,Mainland China,3/14/2020 8:33,1018,4,1014
+23,Washington,US,3/18/2020 14:13,1014,55,0
+24,Anhui,Mainland China,3/11/2020 2:18,990,6,984
+25,Jiangxi,Mainland China,3/12/2020 2:13,935,1,934
+26,,Japan,3/18/2020 12:33,889,29,144
+27,,Malaysia,3/18/2020 10:33,790,2,60
+28,Shandong,Mainland China,3/17/2020 0:33,761,7,746
+29,California,US,3/18/2020 19:14,751,13,0
+30,Diamond Princess cruise ship,Others,3/18/2020 10:33,712,7,325
+31,Jiangsu,Mainland China,3/15/2020 1:53,631,0,631
+32,Chongqing,Mainland China,3/15/2020 3:53,576,6,570
+33,Sichuan,Mainland China,3/18/2020 2:13,540,3,525
+34,Heilongjiang,Mainland China,3/18/2020 11:53,482,13,459
+35,Beijing,Mainland China,3/18/2020 5:33,469,8,378
+36,,Czech Republic,3/18/2020 10:33,464,0,3
+37,UK,UK,3/11/2020 21:33,456,8,18
+38,,Qatar,3/18/2020 19:14,452,0,4
+39,,Portugal,3/18/2020 12:33,448,2,3
+40,,Israel,3/18/2020 14:33,433,0,11
+41,,Greece,3/18/2020 16:59,418,5,8
+42,,UK,3/10/2020 23:53,382,6,18
+43,,Brazil,3/18/2020 19:14,372,3,2
+44,Shanghai,Mainland China,3/18/2020 5:53,361,3,326
+45,,Finland,3/18/2020 13:13,336,0,10
+46,Hebei,Mainland China,3/13/2020 11:09,318,6,310
+47,Florida,US,3/18/2020 19:14,314,7,0
+48,,Singapore,3/18/2020 13:33,313,0,114
+49,,Pakistan,3/18/2020 19:14,299,0,2
+50,Fujian,Mainland China,3/11/2020 2:18,296,1,295
+51,,Ireland,3/18/2020 3:13,292,2,5
+52,,Slovenia,3/17/2020 16:53,275,1,0
+53,New South Wales,Australia,3/18/2020 12:13,267,5,4
+54,New Jersey,US,3/18/2020 14:13,267,3,0
+55,,Denmark,3/10/2020 17:33,262,0,1
+56,,Romania,3/18/2020 16:59,260,0,19
+57,,Estonia,3/18/2020 10:33,258,0,1
+58,Louisiana,US,3/18/2020 19:33,257,4,0
+59,,Bahrain,3/18/2020 12:33,256,1,88
+60,Guangxi,Mainland China,3/18/2020 0:33,253,2,250
+61,,Poland,3/18/2020 13:33,251,5,13
+62,,Iceland,3/18/2020 12:33,250,1,5
+63,Shaanxi,Mainland China,3/18/2020 3:53,246,3,237
+64,,Chile,3/18/2020 13:33,238,0,0
+65,,Indonesia,3/18/2020 10:53,227,19,11
+66,Ontario,Canada,3/18/2020 17:33,221,1,5
+67,Massachusetts,US,3/18/2020 14:13,218,0,0
+68,,Thailand,3/18/2020 10:53,212,1,42
+69,,Luxembourg,3/18/2020 10:53,203,2,0
+70,,Philippines,3/18/2020 10:53,202,19,5
+71,Georgia,US,3/18/2020 19:14,199,3,0
+72,,Egypt,3/18/2020 3:13,196,6,32
+73,British Columbia,Canada,3/18/2020 3:33,186,7,4
+74,Colorado,US,3/18/2020 15:53,184,2,0
+75,Hong Kong,Hong Kong,3/18/2020 9:33,181,4,92
+76,Yunnan,Mainland China,3/16/2020 23:53,176,2,172
+77,Texas,US,3/18/2020 19:53,173,3,0
+78,,Saudi Arabia,3/17/2020 17:53,171,0,6
+79,Hainan,Mainland China,3/16/2020 14:38,168,6,161
+80,,Iraq,3/18/2020 12:33,164,12,43
+81,Illinois,US,3/18/2020 19:14,162,1,0
+82,,India,3/18/2020 13:33,156,3,14
+83,Pennsylvania,US,3/18/2020 19:14,152,0,0
+84,,Russia,3/18/2020 12:33,147,0,8
+85,Guizhou,Mainland China,3/18/2020 1:53,146,2,144
+86,,Peru,3/18/2020 16:59,145,0,1
+87,,Kuwait,3/18/2020 10:53,142,0,15
+88,Tianjin,Mainland China,3/15/2020 18:20,136,3,133
+89,,Lebanon,3/18/2020 10:53,133,3,3
+90,Gansu,Mainland China,3/15/2020 18:20,133,2,91
+91,Shanxi,Mainland China,3/13/2020 11:09,133,0,133
+92,Liaoning,Mainland China,3/18/2020 2:13,125,1,122
+93,Victoria,Australia,3/18/2020 12:13,121,0,8
+94,,San Marino,3/18/2020 2:53,119,11,4
+95,,South Africa,3/18/2020 10:53,116,0,0
+96,,United Arab Emirates,3/18/2020 2:33,113,0,26
+97,,Ecuador,3/18/2020 3:13,111,2,0
+98,,Slovakia,3/18/2020 14:13,105,1,0
+99,,Taiwan,3/18/2020 7:13,100,1,22
+100,,Turkey,3/18/2020 2:33,98,1,0
+101,"Westchester County, NY",US,3/9/2020 17:13,98,0,0
+102,Alberta,Canada,3/18/2020 3:33,97,0,0
+103,Queensland,Australia,3/18/2020 11:53,94,0,8
+104,Quebec,Canada,3/18/2020 17:53,94,0,0
+105,,Colombia,3/18/2020 14:53,93,0,1
+106,Jilin,Mainland China,3/16/2020 0:22,93,1,92
+107,,Mexico,3/18/2020 10:53,93,0,4
+108,,Bulgaria,3/18/2020 15:33,92,2,0
+109,Wisconsin,US,3/18/2020 19:14,92,0,0
+110,,Panama,3/18/2020 10:53,86,1,0
+111,Ohio,US,3/18/2020 19:14,86,0,0
+112,Maryland,US,3/18/2020 19:14,85,0,0
+113,,Armenia,3/18/2020 10:53,84,0,1
+114,,Serbia,3/18/2020 10:53,83,0,1
+115,"King County, WA",US,3/8/2020 20:23,83,17,1
+116,Michigan,US,3/18/2020 19:14,83,0,0
+117,,Croatia,3/18/2020 11:13,81,0,4
+118,,Argentina,3/18/2020 3:33,79,2,3
+119,Tennessee,US,3/18/2020 19:14,79,0,0
+120,Minnesota,US,3/18/2020 19:14,77,0,0
+121,Virginia,US,3/18/2020 19:53,77,2,0
+122,Xinjiang,Mainland China,3/11/2020 2:18,76,3,73
+123,Inner Mongolia,Mainland China,3/16/2020 14:38,75,1,73
+124,Ningxia,Mainland China,3/16/2020 14:38,75,0,75
+125,,Vietnam,3/18/2020 15:33,75,0,16
+126,,Algeria,3/18/2020 19:53,74,7,12
+127,,Latvia,3/18/2020 11:13,71,0,1
+128,North Carolina,US,3/18/2020 19:14,70,0,0
+129,,Brunei,3/18/2020 11:13,68,0,0
+130,Connecticut,US,3/17/2020 23:13,68,0,0
+131,Oregon,US,3/18/2020 13:53,68,2,0
+132,Cruise Ship,Others,2/7/2020 16:33,61,0,0
+133,,Albania,3/18/2020 12:33,59,2,0
+134,Faroe Islands,Denmark,3/18/2020 16:59,58,0,0
+135,,Hungary,3/18/2020 11:13,58,1,2
+136,Nevada,US,3/18/2020 19:14,55,1,0
+137,,Jordan,3/18/2020 14:53,52,0,1
+138,,Belarus,3/18/2020 11:33,51,0,5
+139,,Sri Lanka,3/18/2020 13:13,51,0,1
+140,Utah,US,3/17/2020 20:53,51,0,0
+141,,Costa Rica,3/18/2020 3:33,50,0,0
+142,,Uruguay,3/18/2020 11:33,50,0,0
+143,,Cyprus,3/18/2020 3:13,49,0,0
+144,,Morocco,3/18/2020 11:33,49,2,1
+145,Diamond Princess cruise ship,US,3/16/2020 16:53,47,0,0
+146,South Carolina,US,3/17/2020 23:13,47,1,0
+147,Alabama,US,3/18/2020 19:33,46,0,0
+148,Unassigned Location (From Diamond Princess),US,3/2/2020 19:53,45,0,0
+149,Maine,US,3/18/2020 19:33,42,0,0
+150,,Andorra,3/17/2020 20:53,39,0,1
+151,,Oman,3/18/2020 19:33,39,0,12
+152,Indiana,US,3/18/2020 19:33,39,2,0
+153,,Bosnia and Herzegovina,3/18/2020 12:13,38,0,2
+154,,Georgia,3/18/2020 11:33,38,0,1
+155,,Malta,3/17/2020 15:53,38,0,2
+156,"Santa Clara County, CA",US,3/8/2020 21:23,38,0,1
+157,South Australia,Australia,3/18/2020 11:53,37,0,3
+158,,Venezuela,3/18/2020 11:33,36,0,0
+159,Western Australia,Australia,3/18/2020 12:13,35,1,0
+160,,Cambodia,3/18/2020 11:33,35,0,1
+161,,Kazakhstan,3/18/2020 11:33,35,0,0
+162,,North Macedonia,3/18/2020 12:33,35,0,1
+163,Mississippi,US,3/18/2020 19:33,34,0,0
+164,Arkansas,US,3/18/2020 19:33,33,0,0
+165,Rhode Island,US,3/18/2020 19:33,33,0,0
+166,,Senegal,3/18/2020 11:33,31,0,2
+167,District of Columbia,US,3/18/2020 5:53,31,0,0
+168,"Snohomish County, WA",US,3/8/2020 21:43,31,1,0
+169,,Moldova,3/18/2020 11:33,30,1,1
+170,,Tunisia,3/18/2020 12:33,29,0,0
+171,Iowa,US,3/18/2020 5:53,29,0,0
+172,,Azerbaijan,3/17/2020 11:53,28,1,6
+173,"Toronto, ON",Canada,3/8/2020 21:33,28,0,3
+174,,Liechtenstein,3/18/2020 19:14,28,0,0
+175,,Guadeloupe,3/18/2020 10:13,27,0,0
+176,,Lithuania,3/18/2020 11:33,27,0,1
+177,Arizona,US,3/18/2020 19:33,27,0,0
+178,Kentucky,US,3/18/2020 14:13,27,1,0
+179,New Hampshire,US,3/17/2020 23:13,26,0,0
+180,Nebraska,US,3/18/2020 13:53,24,0,0
+181,New Mexico,US,3/17/2020 23:13,23,0,0
+182,,Afghanistan,3/17/2020 11:53,22,0,1
+183,,Palestine,3/7/2020 2:23,22,0,0
+184,,Dominican Republic,3/17/2020 8:13,21,1,0
+185,,Republic of Ireland,3/8/2020 21:03,21,0,0
+186,Grand Princess,US,3/17/2020 20:53,21,0,0
+187,Grand Princess Cruise Ship,US,3/7/2020 1:33,21,0,0
+188,,Burkina Faso,3/18/2020 12:33,20,1,0
+189,,New Zealand,3/18/2020 2:53,20,0,0
+190,"Santa Clara, CA",US,3/5/2020 22:53,20,0,1
+191,,Martinique,3/18/2020 10:13,19,1,0
+192,Delaware,US,3/18/2020 19:33,19,0,0
+193,"New York County, NY",US,3/9/2020 17:13,19,0,0
+194,Oklahoma,US,3/17/2020 17:53,19,0,0
+195,Qinghai,Mainland China,3/11/2020 2:18,18,0,18
+196,Kansas,US,3/17/2020 23:13,18,1,0
+197,Missouri,US,3/18/2020 19:33,18,0,0
+198,Vermont,US,3/18/2020 19:33,18,0,0
+199,"Nassau County, NY",US,3/9/2020 17:13,17,0,0
+200,Manitoba,Canada,3/18/2020 3:33,15,0,0
+201,Macau,Macau,3/18/2020 10:33,15,0,10
+202,Wyoming,US,3/18/2020 13:53,15,0,0
+203,,Uzbekistan,3/18/2020 12:13,15,0,0
+204,,Bangladesh,3/18/2020 11:33,14,1,3
+205,,Ukraine,3/17/2020 19:33,14,2,0
+206,Hawaii,US,3/18/2020 5:53,14,0,0
+207,"Los Angeles, CA",US,3/8/2020 1:13,14,0,0
+208,,Jamaica,3/18/2020 11:53,13,0,2
+209,,Maldives,3/15/2020 18:20,13,0,0
+210,,Bolivia,3/18/2020 11:53,12,0,0
+211,Nova Scotia,Canada,3/18/2020 17:53,12,0,0
+212,,Reunion,3/18/2020 11:53,12,0,0
+213,"Contra Costa County, CA",US,3/8/2020 21:43,12,0,0
+214,New Brunswick,Canada,3/18/2020 18:33,11,0,0
+215,,French Guiana,3/16/2020 14:38,11,0,0
+216,,Paraguay,3/18/2020 11:53,11,0,0
+217,"Ashland, NE",US,2/21/2020 23:23,11,0,0
+218,Montana,US,3/18/2020 19:33,11,0,0
+219,South Dakota,US,3/17/2020 23:33,11,1,0
+220,Tasmania,Australia,3/18/2020 11:53,10,0,0
+221,,Cameroon,3/17/2020 15:53,10,0,0
+222,Grand Princess,Canada,3/18/2020 11:53,9,0,0
+223,,Honduras,3/18/2020 11:53,9,0,0
+224,Idaho,US,3/18/2020 5:53,9,0,0
+225,"San Francisco County, CA",US,3/8/2020 1:23,9,0,0
+226,"Seattle, WA",US,3/1/2020 21:13,9,1,1
+227,Saskatchewan,Canada,3/18/2020 11:53,8,0,0
+228,,Nigeria,3/18/2020 12:33,8,0,1
+229,,Rwanda,3/18/2020 11:33,8,0,0
+230,Gibraltar,UK,3/18/2020 14:13,8,0,2
+231,"Suffolk County, MA",US,3/8/2020 21:13,8,0,1
+232,"Washington County, OR",US,3/8/2020 19:43,8,0,0
+233,,Cuba,3/18/2020 16:59,7,1,0
+234,,Ghana,3/17/2020 19:33,7,0,0
+235,,Guyana,3/17/2020 10:53,7,1,0
+236,,Monaco,3/16/2020 14:38,7,0,0
+237,,Trinidad and Tobago,3/18/2020 11:53,7,0,0
+238,"Cook County, IL",US,3/8/2020 20:23,7,0,2
+239,"Middlesex County, MA",US,3/8/2020 21:13,7,0,0
+240,"Placer County, CA",US,3/9/2020 8:23,7,1,0
+241,,Ethiopia,3/18/2020 11:33,6,0,0
+242,,Guatemala,3/17/2020 12:13,6,1,0
+243,,Ivory Coast,3/18/2020 11:33,6,0,1
+244,,Mongolia,3/18/2020 11:53,6,0,0
+245,Channel Islands,UK,3/16/2020 14:38,6,0,0
+246,Alaska,US,3/18/2020 5:53,6,0,0
+247,"Fort Bend County, TX",US,3/8/2020 17:33,6,0,0
+248,"Harris County, TX",US,3/9/2020 9:13,6,0,0
+249,"Norfolk County, MA",US,3/8/2020 21:13,6,0,0
+250,North Dakota,US,3/18/2020 19:33,6,0,0
+251,Fench Guiana,France,3/14/2020 16:53,5,0,0
+252,Bavaria,Germany,1/31/2020 23:59,5,0,0
+253,"Fulton County, GA",US,3/9/2020 18:53,5,0,0
+254,Guam,US,3/18/2020 5:53,5,0,0
+255,"Montgomery County, PA",US,3/9/2020 18:33,5,0,0
+256,Puerto Rico,US,3/16/2020 0:22,5,0,0
+257,"Travis, CA",US,2/21/2020 23:23,5,0,0
+258,"Unassigned Location, WA",US,3/6/2020 0:33,5,0,0
+259,,Aruba,3/18/2020 11:53,4,0,0
+260,"Montreal, QC",Canada,3/8/2020 16:03,4,0,0
+261,,Congo (Kinshasa),3/18/2020 11:33,4,0,0
+262,,Equatorial Guinea,3/18/2020 14:33,4,0,0
+263,,Seychelles,3/17/2020 12:33,4,0,0
+264,"Bergen County, NJ",US,3/8/2020 21:23,4,0,0
+265,"Grafton County, NH",US,3/8/2020 17:53,4,0,0
+266,"Kershaw County, SC",US,3/9/2020 0:03,4,0,0
+267,"Montgomery County, MD",US,3/8/2020 21:53,4,0,0
+268,"New York City, NY",US,3/5/2020 21:03,4,0,0
+269,"Orange County, CA",US,3/9/2020 0:23,4,0,0
+270,"Pierce County, WA",US,3/8/2020 21:43,4,0,0
+271,"Rockland County, NY",US,3/9/2020 17:33,4,0,0
+272,Australian Capital Territory,Australia,3/18/2020 11:53,3,0,0
+273,"Edmonton, Alberta",Canada,3/8/2020 16:23,3,0,0
+274,Newfoundland and Labrador,Canada,3/17/2020 17:53,3,0,0
+275,French Polynesia,France,3/15/2020 18:20,3,0,0
+276,Saint Barthelemy,France,3/16/2020 14:38,3,0,0
+277,St Martin,France,3/18/2020 10:13,3,0,0
+278,,Kenya,3/16/2020 0:22,3,0,0
+279,,Kyrgyzstan,3/18/2020 11:53,3,0,0
+280,,Mauritius,3/18/2020 19:53,3,0,0
+281,,Mayotte,3/18/2020 2:53,3,0,0
+282,Curacao,Netherlands,3/17/2020 12:33,3,0,0
+283,,Tanzania,3/18/2020 11:33,3,0,0
+284,"Broward County, FL",US,3/9/2020 8:53,3,0,0
+285,"Chicago, IL",US,3/1/2020 3:53,3,0,2
+286,"Cobb County, GA",US,3/9/2020 3:53,3,0,0
+287,"Douglas County, CO",US,3/7/2020 1:53,3,0,0
+288,"Douglas County, NE",US,3/9/2020 0:53,3,0,0
+289,"Johnson County, IA",US,3/9/2020 8:43,3,0,0
+290,"Maricopa County, AZ",US,3/7/2020 19:53,3,0,1
+291,"Providence County, RI",US,3/7/2020 2:23,3,0,0
+292,"San Diego County, CA",US,3/5/2020 20:33,3,0,1
+293,"Sonoma County, CA",US,3/9/2020 12:03,3,0,0
+294,,Barbados,3/18/2020 6:33,2,0,0
+295,,Benin,3/18/2020 14:13,2,0,0
+296,,Faroe Islands,3/8/2020 5:13,2,0,0
+297,,Kosovo,3/15/2020 18:20,2,0,0
+298,,Liberia,3/18/2020 3:13,2,0,0
+299,,Namibia,3/14/2020 16:33,2,0,0
+300,Aruba,Netherlands,3/18/2020 0:53,2,0,0
+301,,Saint Lucia,3/17/2020 4:32,2,0,0
+302,,St. Martin,3/9/2020 10:43,2,0,0
+303,,Sudan,3/18/2020 12:13,2,1,0
+304,"Alameda County, CA",US,3/7/2020 13:13,2,0,0
+305,"Clark County, NV",US,3/8/2020 21:43,2,0,0
+306,"Denver County, CO",US,3/6/2020 23:33,2,0,0
+307,"Fairfax County, VA",US,3/8/2020 21:33,2,0,0
+308,"Floyd County, GA",US,3/7/2020 16:53,2,0,0
+309,"Harrison County, KY",US,3/9/2020 8:43,2,0,0
+310,"Hendricks County, IN",US,3/9/2020 8:23,2,0,0
+311,"Hillsborough, FL",US,3/3/2020 18:33,2,0,0
+312,"Honolulu County, HI",US,3/9/2020 3:43,2,0,0
+313,"Jackson County, OR ",US,3/8/2020 0:13,2,0,0
+314,"Lackland, TX",US,2/21/2020 23:23,2,0,0
+315,"Lee County, FL",US,3/8/2020 15:33,2,1,0
+316,"Manatee County, FL",US,3/9/2020 8:53,2,0,0
+317,"Pinal County, AZ",US,3/7/2020 17:13,2,0,0
+318,"Portland, OR",US,3/2/2020 3:33,2,0,0
+319,"Providence, RI",US,3/2/2020 3:43,2,0,0
+320,"Sacramento County, CA",US,2/27/2020 20:33,2,0,0
+321,"San Benito, CA",US,2/3/2020 3:53,2,0,0
+322,"San Mateo, CA",US,3/3/2020 0:43,2,0,0
+323,"Saratoga County, NY",US,3/7/2020 18:23,2,0,0
+324,"Summit County, CO",US,3/6/2020 1:29,2,0,0
+325,United States Virgin Islands,US,3/18/2020 0:13,2,0,0
+326,Virgin Islands,US,3/17/2020 20:53,2,0,0
+327,"Washington, D.C.",US,3/8/2020 13:53,2,0,0
+328,"Washoe County, NV",US,3/8/2020 21:43,2,0,0
+329,,Zambia,3/18/2020 14:33,2,0,0
+330,,Antigua and Barbuda,3/15/2020 18:20,1,0,0
+331,Northern Territory,Australia,3/14/2020 1:53,1,0,0
+332,,Bhutan,3/13/2020 22:22,1,0,0
+333,"Calgary, Alberta",Canada,3/6/2020 13:13,1,0,0
+334,"London, ON",Canada,2/12/2020 18:53,1,0,1
+335,Prince Edward Island,Canada,3/15/2020 2:13,1,0,0
+336,,Cayman Islands,3/13/2020 12:33,1,0,0
+337,,Central African Republic,3/16/2020 3:33,1,0,0
+338,,Channel Islands,3/10/2020 5:33,1,0,0
+339,,Congo (Brazzaville),3/16/2020 14:38,1,0,0
+340,,Curacao,3/14/2020 16:15,1,0,0
+341,,Djibouti,3/18/2020 12:33,1,0,0
+342,,Eswatini,3/15/2020 6:41,1,0,0
+343,,Gabon,3/14/2020 13:33,1,0,0
+344,,"Gambia, The",3/18/2020 14:13,1,0,0
+345,,Gibraltar,3/10/2020 8:33,1,0,1
+346,,Greenland,3/16/2020 16:53,1,0,0
+347,,Guinea,3/15/2020 6:41,1,0,0
+348,,Holy See,3/13/2020 22:22,1,0,0
+349,Tibet,Mainland China,3/11/2020 2:18,1,0,1
+350,,Mauritania,3/15/2020 18:20,1,0,0
+351,,Montenegro,3/18/2020 19:53,1,0,0
+352,,Nepal,3/13/2020 22:22,1,0,1
+353,,North Ireland,2/28/2020 5:43,1,0,0
+354,,Saint Barthelemy,3/9/2020 10:43,1,0,0
+355,,Saint Vincent and the Grenadines,3/14/2020 16:33,1,0,0
+356,,Somalia,3/18/2020 0:53,1,0,0
+357,,Suriname,3/14/2020 16:33,1,0,0
+358,,The Bahamas,3/16/2020 3:33,1,0,0
+359,,Togo,3/13/2020 22:22,1,0,0
+360,Cayman Islands,UK,3/16/2020 14:53,1,1,0
+361,Montserrat,UK,3/18/2020 11:53,1,0,0
+362,"Bennington County, VT",US,3/9/2020 8:53,1,0,0
+363,"Berkeley, CA",US,3/3/2020 23:53,1,0,0
+364,"Berkshire County, MA",US,3/8/2020 0:43,1,0,0
+365,"Boston, MA",US,2/28/2020 21:13,1,0,1
+366,"Carver County, MN",US,3/9/2020 8:43,1,0,0
+367,"Charleston County, SC",US,3/7/2020 1:53,1,0,0
+368,"Charlotte County, FL",US,3/9/2020 8:53,1,0,0
+369,"Chatham County, NC",US,3/6/2020 16:13,1,0,0
+370,"Cherokee County, GA",US,3/9/2020 3:53,1,0,0
+371,"Clark County, WA",US,3/7/2020 20:03,1,0,0
+372,"Collin County, TX",US,3/9/2020 18:53,1,0,0
+373,"Davidson County, TN",US,3/8/2020 18:03,1,0,0
+374,"Davis County, UT",US,3/7/2020 4:43,1,0,0
+375,"Delaware County, PA",US,3/6/2020 15:33,1,0,0
+376,"Douglas County, OR",US,3/8/2020 19:53,1,0,0
+377,"El Paso County, CO",US,3/7/2020 1:13,1,0,0
+378,"Fairfield County, CT",US,3/8/2020 21:23,1,0,0
+379,"Fayette County, KY",US,3/6/2020 23:23,1,0,0
+380,"Fresno County, CA",US,3/8/2020 4:23,1,0,0
+381,"Grant County, WA",US,3/9/2020 8:43,1,1,0
+382,"Harford County, MD",US,3/8/2020 21:53,1,0,0
+383,"Hudson County, NJ",US,3/8/2020 19:43,1,0,0
+384,"Humboldt County, CA",US,2/21/2020 5:13,1,0,0
+385,"Jefferson County, KY",US,3/9/2020 0:23,1,0,0
+386,"Jefferson County, WA",US,3/7/2020 16:43,1,0,0
+387,"Jefferson Parish, LA",US,3/9/2020 18:53,1,0,0
+388,"Johnson County, KS",US,3/8/2020 0:33,1,0,0
+389,"Kittitas County, WA",US,3/8/2020 0:43,1,0,0
+390,"Klamath County, OR",US,3/7/2020 20:13,1,0,0
+391,"Madera County, CA",US,3/7/2020 20:13,1,0,0
+392,"Madison, WI",US,3/3/2020 15:53,1,0,1
+393,"Marion County, IN",US,3/6/2020 17:13,1,0,0
+394,"Marion County, OR",US,3/8/2020 19:43,1,0,0
+395,"Norwell County, MA",US,3/6/2020 2:33,1,0,0
+396,"Okaloosa County, FL",US,3/8/2020 3:03,1,0,0
+397,"Orange, CA",US,2/1/2020 19:53,1,0,0
+398,"Plymouth County, MA",US,3/7/2020 3:53,1,0,0
+399,"Polk County, GA",US,3/8/2020 4:13,1,0,0
+400,"Queens County, NY",US,3/5/2020 21:43,1,0,0
+401,"Ramsey County, MN",US,3/6/2020 23:23,1,0,0
+402,"Riverside County, CA",US,3/8/2020 10:33,1,0,0
+403,"Rockingham County, NH",US,3/9/2020 22:43,1,0,0
+404,"San Antonio, TX",US,2/13/2020 18:53,1,0,0
+405,"Santa Cruz County, CA",US,3/7/2020 23:43,1,0,0
+406,"Santa Rosa County, FL",US,3/8/2020 15:33,1,1,0
+407,"Sarasota, FL",US,3/2/2020 3:23,1,0,0
+408,"Shasta County, CA",US,3/9/2020 3:43,1,0,0
+409,"Shelby County, TN",US,3/8/2020 16:13,1,0,0
+410,"Spartanburg County, SC",US,3/9/2020 0:03,1,0,0
+411,"Spokane County, WA",US,3/8/2020 21:53,1,0,0
+412,"St. Louis County, MO",US,3/8/2020 11:23,1,0,0
+413,"Suffolk County, NY",US,3/8/2020 16:03,1,0,0
+414,"Tempe, AZ",US,2/25/2020 21:23,1,0,1
+415,"Tulsa County, OK",US,3/7/2020 4:43,1,0,0
+416,"Ulster County, NY",US,3/8/2020 16:23,1,0,0
+417,"Umatilla, OR",US,3/2/2020 20:23,1,0,0
+418,"Unassigned Location, VT",US,3/8/2020 6:23,1,0,0
+419,"Unknown Location, MA",US,3/8/2020 21:23,1,0,0
+420,US,US,3/18/2020 19:33,1,0,106
+421,"Virgin Islands, U.S.",US,3/14/2020 16:15,1,0,0
+422,"Volusia County, FL",US,3/8/2020 3:03,1,0,0
+423,"Wake County, NC",US,3/3/2020 20:53,1,0,0
+424,"Wayne County, PA",US,3/6/2020 16:13,1,0,0
+425,West Virginia,US,3/17/2020 23:33,1,0,0
+426,"Williamson County, TN",US,3/5/2020 23:33,1,0,0
+427,"Yolo County, CA",US,3/6/2020 20:13,1,0,0
+428,,Vatican City,3/6/2020 15:43,1,0,0
+429,Diamond Princess cruise ship,Australia,3/14/2020 2:33,0,0,0
+430,French Guiana,France,3/18/2020 14:33,0,0,0
+431,Guadeloupe,France,3/18/2020 14:33,0,0,0
+432,Mayotte,France,3/18/2020 14:33,0,0,0
+433,Reunion,France,3/18/2020 14:33,0,0,0
+434,,Guam,3/18/2020 19:14,0,0,0
+435,,Guernsey,3/17/2020 18:33,0,0,0
+436,,Jersey,3/17/2020 18:33,0,0,0
+437,,occupied Palestinian territory,3/11/2020 20:53,0,0,0
+438,,Puerto Rico,3/17/2020 16:13,0,0,0
+439,,Republic of the Congo,3/17/2020 21:33,0,0,0
+440,,The Gambia,3/18/2020 14:13,0,0,0
+441,"Lackland, TX (From Diamond Princess)",US,2/24/2020 23:33,0,0,0
+442,"Montgomery County, TX",US,3/7/2020 19:53,0,0,0
+443,"Omaha, NE (From Diamond Princess)",US,2/24/2020 23:33,0,0,0
+444,"Travis, CA (From Diamond Princess)",US,2/24/2020 23:33,0,0,0
